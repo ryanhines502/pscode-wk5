@@ -9,3 +9,20 @@ ask for 2 numbers
 add the 2 number together 
 print on the screen the sum of those 2 numbers
 
+// Exercise 2: Check if a Number is Even or Odd
+if a = % 2 
+  a = EVEN
+else
+  a = ODD
+// Exercise 3: 
+Write pseudo code that will perform the following.    
+
+a) Read in 5 separate numbers.   
+b) Calculate the average of the five numbers.
+c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
+d) Write out the results found from steps b and c with a message describing what they are
+
+# a,b,c,d,e
+a+b+c+d+e / 5 = b
+{a-e} find largest/smallest sum
+
