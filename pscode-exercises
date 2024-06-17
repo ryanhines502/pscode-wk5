@@ -1,1 +1,11 @@
+// Exercise 1: Calculate the Sum of Two Numbers
+
+a + b = c
+
+num1 + num2 = sum
+print sum
+
+ask for 2 numbers 
+add the 2 number together 
+print on the screen the sum of those 2 numbers
 
