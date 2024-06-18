@@ -23,6 +23,25 @@ c) Find the smallest (minimum) and largest (maximum) of the five entered numbers
 d) Write out the results found from steps b and c with a message describing what they are
 
 # a,b,c,d,e
-a+b+c+d+e / 5 = b
-{a-e} find largest/smallest sum
+a+b+c+d+e / 5 = n
+{a-e} if a > {b-e}, then a = n
+else
+b > {a-e}, then b = n
+else
+c > {a-e}, then c = n
+else
+d > {a-e}, then d = n
+else
+e > {a-e}, then e = n
+{a-e} if a < {b-e}, then a = n
+else
+b < {a-e}, then b = n
+else
+c < {a-e}, then c = n
+else
+d < {a-e}, then d = n
+else
+e < {a-e}, then e = n
 
+add the numbers a through e, then divide by five to get the average of the five numbers
+input numbers, if number is largest it is the maximum, if it is smallest it is minimum
